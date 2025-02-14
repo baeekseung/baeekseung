@@ -19,6 +19,7 @@
   <img alt="jupyter" src="https://img.shields.io/badge/-jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="huggingface" src="https://img.shields.io/badge/-huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=white" />
+  
 
 
 
