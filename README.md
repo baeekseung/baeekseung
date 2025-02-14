@@ -9,32 +9,19 @@
 </a>
 <br/>
 
-### Things I code with
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="jupyter" src="https://img.shields.io/badge/-jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="huggingface" src="https://img.shields.io/badge/-huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=white" />
-</p>
+### 🔧 Technologies & Tools
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/MartinHeinz/baeekseung">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baeekseung&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/baeekseung/baeekseung">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=baeekseung&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/baeekseung/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baeekseung&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/baeekseung/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baeekseung&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
+![](https://img.shields.io/badge/OS-macos-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-huggingface-informational?style=flat&logo=huggingface&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Google_Cloud_Platform-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Transformers-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-vLLM-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-yolo-informational?style=flat&logo=yolo&logoColor=white&color=2bbc8a)
