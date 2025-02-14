@@ -19,11 +19,22 @@
   <img alt="jupyter" src="https://img.shields.io/badge/-jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="huggingface" src="https://img.shields.io/badge/-huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=white" />
-  
-
-
-
-  
-  
-  
 </p>
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/MartinHeinz/baeekseung">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baeekseung&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/baeekseung/baeekseung">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=baeekseung&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/baeekseung/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baeekseung&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/baeekseung/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baeekseung&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
