@@ -32,6 +32,12 @@
 ![](https://img.shields.io/badge/Tools-langchain-informational?style=flat&logo=langchain&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud_Platform-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- :computer: I'm a data-agnostic AI developer. (e.g., text, images, time series)  
+- :books: I'm currently focused on developing a domain-specific LLM, and also implementing serving.  
+- :email: How to reach me <a href="mailto:seungju41625886@gmail.com">seungju41625886@gmail.com</a>
+
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/baeekseung/Ophtimus-Ophthalmology-LLM">
