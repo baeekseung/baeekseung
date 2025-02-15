@@ -32,5 +32,13 @@
 ![](https://img.shields.io/badge/Tools-langchain-informational?style=flat&logo=langchain&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud_Platform-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 
+## 🗂️ Highlight Projects
 
+<a href="https://github.com/baeekseung/Ophtimus-Ophthalmology-LLM ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baeekseung&repo=Ophtimus-Ophthalmology-LLM&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Ophtimus-Ophthalmology-LLM" />
+</a>
+
+<a href="https://github.com/baeekseung/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baeekseung&repo=SD-OCT-ERM-Quantification&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SD-OCT-ERM-Quantification" />
+</a>
 
