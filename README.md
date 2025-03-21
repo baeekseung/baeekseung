@@ -13,13 +13,10 @@
 
 ![](https://img.shields.io/badge/OS-macos-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-huggingface-informational?style=flat&logo=huggingface&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Transformers-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-OpenAI_API-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-vLLM-informational?style=flat&color=2bbc8a)
