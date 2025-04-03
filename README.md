@@ -11,7 +11,6 @@
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
