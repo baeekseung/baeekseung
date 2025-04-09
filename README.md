@@ -4,9 +4,9 @@
 <a href="https://instagram.com/_baekseung" target="_blank">
   <img align="left" alt="Baekseung's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/baekseung/" target="_blank">
+<!-- <a href="https://www.linkedin.com/in/baekseung/" target="_blank">
   <img align="left" alt="Baekseung's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
-</a>
+</a> -->
 <br/>
 
 ## 🔧 Technologies & Tools
