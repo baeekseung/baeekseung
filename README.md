@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/Tools-yolo-informational?style=flat&logo=yolo&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-opencv-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-langchain-informational?style=flat&logo=langchain&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-streamlit-informational?style=flat&logo=Streamlit&logoColor=white&color=2bbc8a)
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
