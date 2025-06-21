@@ -1,4 +1,4 @@
-## 👋 Hi there!&ensp;I'm Seung Ju Baek. Feel free to call me Baek Seung.
+# 👋 Hi there!&ensp;I'm Seung Ju Baek. Feel free to call me Baek Seung.
 
 ## 🔧 Technologies & Tools
 
