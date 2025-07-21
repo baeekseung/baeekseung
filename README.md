@@ -17,7 +17,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a data-agnostic AI developer. (e.g., text, images, time series)  
+- :computer: I'm a data-agnostic AI developer. (e.g., natural language, images, time series)  
 - :books: I'm currently focused on developing LLM service.  
 - :email: How to reach me <a href="mailto:seungju41625886@gmail.com">seungju41625886@gmail.com</a>
 
