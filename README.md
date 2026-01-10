@@ -17,8 +17,8 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a data-agnostic AI developer. (e.g., natural language, images, time series)  
-- :books: I'm currently focused on developing LLM service.  
+- :computer: I'm a AI Engineer. (e.g., natural language, images, time series)  
+- :books: I'm currently focused on developing Agnetic AI service.
 - :gear: I especially enjoy designing and implementing pipelines that transform unstructured data into high-quality training datasets, which significantly enhance AI performance.  
 - :email: How to reach me <a href="mailto:seungju41625886@gmail.com">seungju41625886@gmail.com</a>
 
