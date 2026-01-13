@@ -1,6 +1,7 @@
-# 👋 Hi there!&ensp;I'm Seung Ju Baek. Feel free to call me Baek Seung.
+# 👋 Hello, I'm Seung Ju Baek
+- 
 
-## 🔧 Technologies & Tools
+## Tech
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
