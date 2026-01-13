@@ -33,13 +33,12 @@ I'm passionate about designing and implementing data pipelines and Agentic workf
 
 > ### 📚 [Ophtimus-Ophthalmology-LLM](https://github.com/baeekseung/Ophtimus-Ophthalmology-LLM)
 > Domain-specific LLM for ophthalmology that surpasses GPT-4 performance
-> `8B Model` · `Medical AI` · `Fine-tuning (LoRA)`
-
-<br>
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 > ### 🔬 [SD-OCT-ERM-Quantification](https://github.com/baeekseung/SD-OCT-ERM-Quantification)
 > Advanced quantification system for Epiretinal Membrane using SD-OCT imaging
-> `Computer Vision` · `Deep Learning` · `OCT Analysis`
-
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 
