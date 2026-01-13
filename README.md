@@ -23,9 +23,9 @@ I'm passionate about designing and implementing data pipelines and Agentic workf
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a AI Engineer. (e.g., natural language, images, time series)  
-- :books: I'm currently focused on developing Agnetic AI service.
-- :gear: I especially enjoy designing and implementing pipelines that transform unstructured data into high-quality training datasets, which significantly enhance AI performance.  
+- :hospital: Researched medical AI for 5 years, working with natural language, image, and time-series data
+- :test_tube: Experienced in building domain-specific LLMs through high-quality synthetic data generation
+- :robot: Focused on building accurate and efficient Agentic AI systems through workflow design, MCP, context engineering, and prompt engineering
 - :email: How to reach me <a href="mailto:seungju41625886@gmail.com">seungju41625886@gmail.com</a>
 
 
