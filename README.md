@@ -1,19 +1,24 @@
 # 👋 Hello, I'm Seung Ju Baek
-- 
 
-## Tech
+I'm an LLM/Agentic AI Engineer specializing in building intelligent AI systems.
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-huggingface-informational?style=flat&logo=huggingface&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Transformers-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-langchain-informational?style=flat&logo=langchain&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-langgraph-informational?style=flat&logo=langgraph&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-yolo-informational?style=flat&logo=yolo&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-opencv-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-streamlit-informational?style=flat&logo=Streamlit&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+I'm passionate about designing and implementing data pipelines and Agentic workflows that enhance the accuracy and reliability of AI services.
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
