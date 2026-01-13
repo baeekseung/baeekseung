@@ -31,11 +31,15 @@ I'm passionate about designing and implementing data pipelines and Agentic workf
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/baeekseung/Ophtimus-Ophthalmology-LLM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baeekseung&repo=Ophtimus-Ophthalmology-LLM&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Ophtimus-Ophthalmology-LLM" />
-</a>
+> ### 📚 [Ophtimus-Ophthalmology-LLM](https://github.com/baeekseung/Ophtimus-Ophthalmology-LLM)
+> Domain-specific LLM for ophthalmology that surpasses GPT-4 performance
+> `8B Model` · `Medical AI` · `Fine-tuning (LoRA)`
 
-<a href="https://github.com/baeekseung/SD-OCT-ERM-Quantification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baeekseung&repo=SD-OCT-ERM-Quantification&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SD-OCT-ERM-Quantification" />
-</a>
+<br>
+
+> ### 🔬 [SD-OCT-ERM-Quantification](https://github.com/baeekseung/SD-OCT-ERM-Quantification)
+> Advanced quantification system for Epiretinal Membrane using SD-OCT imaging
+> `Computer Vision` · `Deep Learning` · `OCT Analysis`
+
+
 
