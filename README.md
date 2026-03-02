@@ -32,7 +32,7 @@ I'm passionate about designing and implementing data pipelines and Agentic workf
 ## 🗂️ Highlight Projects
 
 > ### [Ophtimus-Ophthalmology-LLM](https://github.com/baeekseung/Ophtimus-Ophthalmology-LLM)
-> Domain-specific LLM for ophthalmology that surpasses GPT-4 performance
+> Domain-specific LLM for ophthalmology that surpasses GPT-4o performance
 >
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
